@@ -1,0 +1,7 @@
+podShell.xcodeproj/xcuserdata/
+podShell.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+podShell.xcodeproj/project.xcworkspace/xcuserdata/
