@@ -35,7 +35,7 @@ pod trunk register email 'name' --description='macbook air'
 ```
 ![](https://github.com/leoAntu/leoImagesStorage/blob/master/leoImagesStorage/87A7C773-625D-4228-8253-E7462704AB6C.png?raw=true)
 
-此时，你的邮箱会收到一封邮件。复制链接打开即可。(一般只需注册一次即可，后期发布其他项目都不需)
+此时，你的邮箱会收到一封邮件。复制链接打开即可。
 ![](https://github.com/leoAntu/leoImagesStorage/blob/master/leoImagesStorage/F0DA55C8-274A-4A3E-A34C-08E884C9484D.png?raw=true)
 
 ####6.发布到pod trunk
